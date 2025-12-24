@@ -4,6 +4,8 @@ ASCII metaball animation for the terminal, written in Rust.
 
 ![metaball](https://img.shields.io/badge/rust-stable-orange)
 
+![demo](demo.gif)
+
 ## Run
 
 ```bash
@@ -106,7 +108,7 @@ This provides 5 levels of coverage, approximating anti-aliasing in a character c
 | Contour | Isosurface boundary detection |
 | Solid | Binary threshold with intensity shading |
 | Blocks | Unicode blocks with sub-pixel sampling |
-| Gooey | Circular chars emphasizing merge zones |
+| Gooey | Circular chars emphasizing merge zones (my favorite) |
 
 ## References
 
